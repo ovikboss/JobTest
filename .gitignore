@@ -13,6 +13,7 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+/__pycache__
 .eggs/
 lib/
 lib64/
